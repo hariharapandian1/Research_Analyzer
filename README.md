@@ -11,6 +11,16 @@ This project implements a multi-agent system that processes research papers from
 - [Limitations and Future Improvements](#limitations-and-future-improvements)
 - [License](#license)
 
+## 📸 Preview
+
+📄 PDF Upload
+<p align="center"> <img src="Screenshot 2025-08-01 012733.png" width="700" alt="PDF Upload UI Preview"/> </p>
+🔗 DOI Input
+<p align="center"> <img src="Screenshot 2025-08-01 012917.png" width="700" alt="DOI Input UI Preview"/> </p>
+🌐 URL Input
+<p align="center"> <img src="Screenshot 2025-08-01 013107.png" width="700" alt="URL Input UI Preview"/> </p>
+
+
 ## Setup Instructions
 
 ### Prerequisites
